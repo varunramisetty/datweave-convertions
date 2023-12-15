@@ -1,0 +1,11 @@
+Course, Year of Introduction, NIRF Ranking (2024)
+Computer Science and Engineering, 2000, 4
+Electrical Engineering, 2001, 8
+Mechanical Engineering, 2002, 12
+Civil Engineering, 2003, 15
+Electronics and Communication Engineering, 2005, 6
+Information Technology, 2007, 10
+Chemical Engineering, 2009, 14
+Aerospace Engineering, 2011, 7
+Biotechnology, 2014, 9
+Artificial Intelligence and Machine Learning, 2018, 5
